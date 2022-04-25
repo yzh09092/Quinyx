@@ -1,2 +1,1 @@
-# Quinyx
-for Quinyx test
+
